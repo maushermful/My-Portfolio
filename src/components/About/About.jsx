@@ -43,7 +43,7 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'My understanding of design principles and problem solving have led me to work on sites that both my clients and myself take pride in!'}
+                    'My understanding of design principles, problem solving, and history of customer service have led me to work on sites that both clients and myself take pride in!'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree || 'What I bring to the table is hard work, motivation, a thirst for knowledge, and determination for problem solving.'}
